@@ -25,4 +25,9 @@ The goal of PostureGuard is to provide a strict, unavoidable intervention that f
 PostureGuard leverages real-time posture monitoring to enforce good ergonomic habits by actively interrupting work when poor posture is detected. The interruption only resolves once the user corrects their posture, ensuring an effective and impactful reminder to maintain health and wellness while working.
 
 ---
-
+## Setup
+ > **TODO: Student Note**
+> Please update this README with setup instructions once you determine the development environment, dependencies, and how to run the application. Include:
+> - How to install dependencies
+> - How to run the app
+> - Any optional dev tools or extensions used
